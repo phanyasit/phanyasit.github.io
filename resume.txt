@@ -1,0 +1,168 @@
+Resume
+Full Name: Mr. Phanyasit Wattanakula
+Age: 46 years
+Address: 58 Charansanitwong 77 Soi, Bang Phlat Sub-district, Bang Phlat District, Bangkok, Thailand
+
+Educational Background
+   - Master's Degree in Data Technology and Innovation (DTI)
+       King Mongkut’s Institute of Technology Ladkrabang, 2023
+       Independent Study Topic: The Development of Credit Risk Assessment Model
+   - Bachelor of Business Administration in Business Computer
+       Sripatum University, 2002
+
+Work Experience
+  • 2022 – Present
+
+      Head of Digital Backend Platform – Auto X Co., Ltd.
+  • 2020 – 2021
+
+      Data Analytics and Visualization – OMS Plus
+  • 2016 – 2020
+
+      Web Graphic / UI Designer – WSN Technology
+  • 2010 – 2015
+
+      Web Designer and Developer – Kimberly Clark Thailand
+  • 2009 – 2010
+
+      Webmaster – Orient Thai Airlines
+  • 2006 – 2009
+
+      Configuration Management – Trinity Enterprise Solution
+  • 2005 – 2006
+
+      Web and Graphic Designer – Definitely Corporation
+   •    2004
+        Web Designer – Niner Co., Ltd.
+   •    2003 – 2004
+        Project Coordinator – Psquare Holding
+
+
+Work Experience
+2022– Present
+Head of Digital Backend Platform – Auto X Co., Ltd.
+   •    Developed and maintained RPA systems to reduce manual repetitive tasks in:
+        • Finance
+        • Operations
+        • Insurance (resulting in cost savings and improved efficiency)
+   •    Managed Line Official Account deployment for branches nationwide using RPA and Line token
+        to generate links for employees
+   •    Maintained company website and updated content using Strapi CMS
+   •    Developed automation and AI Chatbot systems (N8N + AI chatbot + RAG)
+   •    Implemented OCR document reading via N8N, Mistral, AI chatbot, Python Tesseract OCR
+   •    Created location-based dashboards using Power BI
+   •    Summarized performance reports for executives
+   •    Built Web Applications using Streamlit for Excel data upload and automated data cleansing
+
+
+Reported RPA performance metrics:
+                  Projects                  Human Workdays                      RPA Workdays
+ 2025                53                         692.90                              80.70
+ 2024                25                         144.17                               12
+
+
+
+2020 – 2021
+Data Analytics and Visualization – OMS Plus
+   •    Analyzed customer acquisition data and explored new business opportunities
+   •    Assessed competitive strategy, market coverage, pricing, communication, and distribution
+   •    Provided executive reports and strategic insights using customer data
+   •    Collaborated with marketing and business planning teams for aligned data strategies
+   •   Developed ad hoc reports and dashboards
+   •   Created IT support dashboards to track incident frequency and response times using Looker
+   •   Analyzed ad campaign performance to identify target groups
+   •   Evaluated KPI performance for Graphic department staff using task-based metrics
+
+
+2016 – 2020
+Web Graphic / UI Designer – WSN Technology
+   •   Data validation, error correction, and inconsistency resolution
+   •   Data collection from databases, CRMs, and external sources
+   •   Developed and improved machine learning models
+
+
+2010 – 2015
+Web Designer and Developer – Kimberly Clark Thailand
+   •   Converted PSD to HTML5 & CSS3 templates for developers
+   •   Website content updates via Umbraco CMS
+   •   Image editing and Flash animations
+
+
+2009 – 2010
+Webmaster – Orient Thai Airlines
+   •   Managed flight schedules and promotional content
+   •   Updated banners and PR content on the website using WordPress
+   •   Created Flash presentations and web banners for online promotions
+
+
+2006 – 2009
+Configuration Management – Trinity Enterprise Solution
+   •   Managed VisualSVN Server and TortoiseSVN for document versioning and baseline control
+   •   User permission configuration and CM Plan monitoring
+   •   Tester:
+       • Performed assigned project testing
+       • Prepared UTC (Unit Test Cases) and UTR (Unit Test Reports)
+2005 – 2006
+Web and Graphic Designer – Definitely Corporation
+   •   Designed and developed websites
+   •   Created Flash-based presentations and printed materials
+
+
+2004 – 2004
+Web Designer – Niner Co., Ltd.
+   •   Website and UI/UX development for clinic and hospital systems
+   •   Icon design and user interface customization
+
+
+2003 – 2004
+Project Coordinator – Psquare Holding
+   •   Coordinated between users and system analysts for requirements gathering
+   •   Prepared meeting documentation for the National Health Security Office project
+Training & Certifications
+   •   2023 Intermediate Data Engineering – Thailand Big Data Institute (Public
+       Organization)
+   •   2023 Basics of Data Engineering – Thailand Big Data Institute
+   •   2023 Prompt Engineering 101 for ChatGPT Expert – Rangsit University
+   •   2022 Intermediate Data Science – GBDi (under DEPA and Ministry of Digital
+       Economy)
+   •   2022 Python for Data Science and Machine Learning Bootcamp – Udemy
+   •   2022 Data Engineering Professional Certificate – RapidMiner
+   •   2022 Essential Pandas for Data Science – Skooldio
+   •   2021 Data Science Essentials – Botnoi (Batch 4)
+   •   2021 Chatbot Tool Training – Botnoi SME Platform
+   •   2020–2021 Big Data for Consumer Insight Analysis – Sripatum University (Non-
+       Degree)
+   •   2021 Data Science for Everyone – Future Skill (Online)
+   •   2021 Data Analytics for Business – Future Skill (Online)
+   •   2019 UX/UI for Mobile App + Adobe XD Workshops – Codemobiles
+    Professional Skills
+    ICT & Automation Tools:
+        •   Power Automate (Cloud & Desktop)
+        •   RPA Implementation
+    Programming & Data Analytics:
+        •   Python (Numpy, Pandas)
+        •   RapidMiner
+        •   Roboflow + YOLO
+        •   Tesseract OCR
+        •   Streamlit
+    Design & Media Applications:
+        •   Adobe Photoshop, Illustrator, Lightroom, Premiere Pro, After Effects, Audition
+        •   Adobe Dreamweaver (Responsive Design)
+        •   Adobe Flash
+        •   Umbraco CMS
+        •   Microsoft Office Suite
+    Web Development:
+        •   HTML5, CSS3, Bootstrap, jQuery
+        •   PHP & MySQL
+        •   WordPress (Elementor + WooCommerce)
+    Data Visualization Tools:
+        •   Looker, Tableau, Power BI
+    Project & Task Management:
+        •   Monday.com, Trello
+    Chatbot Tools:
+        •   Botnoi SME Platform
+        •   DialogFlow
+    UI/UX Design Tools:
+        •   Adobe XD (with Libraries and Components)
+•   Justinmind
+
