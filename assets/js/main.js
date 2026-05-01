@@ -21,11 +21,11 @@ document.addEventListener("DOMContentLoaded", () => {
     new Chart(trainingCtx, {
       type: "doughnut",
       data: {
-        labels: ["2023", "2022", "2021", "2019-2020"],
+        labels: ["2025", "2024", "2023", "2022", "2021", "2020-2021", "2019"],
         datasets: [
           {
-            data: [3, 4, 4, 2],
-            backgroundColor: ["#ff2d6f", "#ff5d95", "#ff87b1", "#ffd3e2"],
+            data: [1, 1, 3, 4, 3, 1, 1],
+            backgroundColor: ["#ff2d6f", "#ff5d95", "#ff87b1", "#ffb3cb", "#ffd3e2", "#ffe4ec", "#fff0f4"],
             borderWidth: 0,
           },
         ],
