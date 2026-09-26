@@ -76,21 +76,21 @@ document.addEventListener("DOMContentLoaded", () => {
     new Chart(rpaCtx, {
       type: "bar",
       data: {
-        labels: ["2024", "2025"],
+        labels: ["2026", "2025", "2024"],
         datasets: [
           {
             label: "Projects",
-            data: [25, 53],
+            data: [58, 53, 25],
             backgroundColor: "#ff87b1",
           },
           {
             label: "Human Workdays",
-            data: [144.17, 692.9],
+            data: [364.17, 692.9, 144.17],
             backgroundColor: "#ff5d95",
           },
           {
             label: "RPA Workdays",
-            data: [12, 80.7],
+            data: [25.57, 80.7, 12],
             backgroundColor: "#ff2d6f",
           },
         ],
